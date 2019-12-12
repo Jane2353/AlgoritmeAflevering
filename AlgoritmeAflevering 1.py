@@ -22,3 +22,5 @@ slut = time.time()
 
 print (slut - start)
 print (my_list)
+
+ #hej
